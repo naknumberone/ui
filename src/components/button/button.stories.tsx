@@ -2,8 +2,8 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { Flex, Icon } from '@chakra-ui/react';
 
-import { Button } from './Button';
-import { ReactComponent as CMD } from '../assets/CMD.svg';
+import { Button } from './button';
+import { ReactComponent as CMD } from '../../assets/CMD.svg';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {

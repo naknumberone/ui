@@ -10,5 +10,6 @@ export const parameters = {
   },
   chakra: {
     theme,
+    resetCSS: true,
   },
 };

@@ -3,7 +3,10 @@ import { Colors } from '@chakra-ui/react';
 export const colors: Colors = {
   black: '#2D2D2E',
   clearWhite: '#FFFFFF',
+  whiteLight: 'rgba(255,255,255,0.4)',
   blackLight: 'rgba(45,45,46,0.4)',
+  blackThin: 'rgba(45,45,46,0.2)',
+  selection: '#F26453',
   baseGreen: '#6CE37F',
   green: '#6CE37F',
   darkGreen: '#43B255',
